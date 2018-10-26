@@ -1,0 +1,12 @@
+Problem Statement : Predict chance of readmission (no readmission, readmission within 30 days or after 30 days) for diabetic patients.
+
+Dataset: The data set represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes.
+
+Output required for every testing data is to categorize them in either of these 3 categories:
+1. No Readmission after completion of treatment.
+2. Readmission within 30 days of treatment.
+3. Readmission after 30 days of treatment.
+
+
+There are a total of 50 influencing factors(such as age, gender and other content levels in blood) that will play a role in prediction and that has to be learned by the system. Although there may be few things that might not be a prime influencer in the readmission for diabetes(such as admission ids, etc.).
+
