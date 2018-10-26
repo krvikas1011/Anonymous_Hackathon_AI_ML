@@ -1,0 +1,21 @@
+Data
+----------
+1. Dividing the data into trial and test data.
+2. Creating the model out of that.
+3. Deciding on the parameters that needs to be included and excluded.
+4. Mechanism to read data from the csv.
+
+Analysis
+-------------
+1. Finding an algorithm for learning the trial data.
+2. Implementing that algorithm.
+3. Running the learning mechanism on trial data.
+4. Finding an algorithm for prediction the test data.
+5. Implementing that algorithm.
+6. Running the prediction mechanism on test data.
+
+Output
+---------------
+1. Generating the resultant prediction on the test data.
+2. Generating the data graph.
+3. Creating the video of the output.
