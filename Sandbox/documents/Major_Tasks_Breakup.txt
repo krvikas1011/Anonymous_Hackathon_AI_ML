@@ -1,9 +1,18 @@
 Data
 ----------
-1. Dividing the data into trial and test data.
-2. Creating the model out of that.
-3. Deciding on the parameters that needs to be included and excluded.
-4. Mechanism to read data from the csv.
+1. Data Processing
+	1.1 Detecting And Eliminiating Outliers (Using Outliers Detection Methods Example : IQR)
+	1.2 Detecting And Handling Missing Values
+2. Feature Selection : Choosing most effective attributes in classifying the training data (Can use feature selection Methods : Filter Methor or Wrapper Method)
+3. Dividing the data into training and test data.
+4. Creating the model out of that.
+5. Mechanism to read data from the csv/excel.
+
+Sampling 
+-----------
+
+1. One of the main issues with the dataset used in this study is that it is imbalanced. The predication accuracy is significantly affected with imbalanced data 
+(We can take a call if this step is needed or not for our dataset)
 
 Analysis
 -------------
